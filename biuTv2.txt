@@ -138,9 +138,10 @@
 #http://m2090.com/?url=
 #https://jx.blbo.cc:4433/?url=
 #https://jx.parwix.com:4433/player/?url=",
-"dianshizhibo": "https://ghproxy.fsofso.com/https://raw.githubusercontent.com/tianiue/MovieTV/master/zb.txt",
+"dianshizhibo": "https://cdn.staticaly.com/gh/airwooo/mt/main/zhibo.txt",
 "tiyuzhibo": "https://m.zhibo8.net",
 "reci": "https://v.sogou.com",
+"guolvdizhi": "player.css#url=#cnzz.com#51.la",
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
 "Home": {
 "dy": {
