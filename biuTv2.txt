@@ -1,4 +1,5 @@
 {"zhuyejiekou": [
+{"name":"【公众号：巫巫电视迷】","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"4K影院","url":"http://1api.4kdytv.com/api.php/v1.vod"},
 {"name":"爱西西","url":"https://myaixixi.com/xgapp.php/v1/"},
