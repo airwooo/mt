@@ -7,7 +7,6 @@
 {"name":"HG影视","url":"http://hgyx.vip/api.php/v1.vod"},
 {"name":"天空影视","url":"https://tkys.tv/xgapp.php/v1/"},
 {"name":"迪迪影院","url":"http://dd88.icu:6080/xgapp.php/v2/"},
-{"name":"DC影视","url":"http://chaorenbb.com/api.php/v1.vod"},
 {"name":"追剧吧","url":"http://zhuiju8.vip/api.php/v1.vod"},
 {"name":"琅琊影视","url": "http://fgyuu.top/lehailb_api.php/v1.vod"},
 {"name":"DC影视","url":"http://chaorenbb.com/api.php/v1.vod"},
