@@ -110,8 +110,8 @@
 {"name":"麻瓜影视","url":"http://aliyun.k8aa.com/mogai_api.php/v1.vod"}
 ],
 "caijizhan": [
-{"name":"快播资源","url":"http://www.kuaibozy.com/api.php"},
 {"name":"七七","url":"http://api.kunyu77.com/api.php"},
+{"name":"快播资源","url":"http://www.kuaibozy.com/api.php"},
 {"name":"嘛哩嘛哩","url":"https://malimali3.com/api.php"},
 {"name":"293影视","url":"http://293x.yhzy.xyz/mv/api.php"},
 {"name":"39影视","url":"https://www.39kan.com/api.php"},
