@@ -276,7 +276,7 @@
 #http://m2090.com/?url=
 #https://jx.blbo.cc:4433/?url=
 #https://jx.parwix.com:4433/player/?url=",
-"dianshizhibo": "https://cdn.staticaly.com/gh/airwooo/mt/main/zhibo2.txt",
+"dianshizhibo": "https://hk1.monika.love/airwooo/mt/main/biu/zhibo.txt",
 "tiyuzhibo": "https://m.zhibo8.net",
 "reci": "https://v.sogou.com",
 "guolvdizhi": "player.css#url=#cnzz.com#51.la",
