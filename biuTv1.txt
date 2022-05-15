@@ -88,7 +88,8 @@
 "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
 }
 },
-"zidingyi": {"name": "真不卡",
+"zidingyi": [
+{"name": "真不卡",
 "url": "https://www.zbkdyy.com/",
 "User": "空",
 "fenlei": "电影$/vodtype/1-#电视剧$/vodtype/2-#综艺$/vodtype/3-#动漫$/vodtype/4-#最新电影$/vodshow/1-#最新电视剧$/vodshow/2-#最新综艺$/vodshow/3-#最新动漫$/vodshow/4-",
@@ -143,4 +144,5 @@
 "bfbiaotiqian": "\">",
 "bfbiaotihou": "</a>",
 "bflianjieqian": "href=\"",
-"bflianjiehou": "\""}}
+"bflianjiehou": "\""}]
+}
